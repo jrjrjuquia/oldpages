@@ -1,7 +1,7 @@
 body{
-	família de fontes: 'Pincel do Consolador', cursivo;
-família de fontes: 'Roboto Condensed', sans-serif;
-família de fontes: 'Roboto Mono', monoespaço;
+font-family: 'Pincel do Consolador', cursivo;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Roboto Mono', monoespaço;
 color: #333;
 }
 a:link, a:active, a:visited{
@@ -59,7 +59,8 @@ a:hover{
 .col12{
 	width: 940px;
 }
-/" estilos reutilizáveis"/
+/* estilos reutilizáveis*/
+
 .sem-padding{
 	padding: 0 !important;
 }
